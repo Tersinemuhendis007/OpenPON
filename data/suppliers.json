@@ -108,7 +108,19 @@
           "value": "@KYTECHNGAMING",
           "url": "https://t.me/KYTECHNGAMING"
         }
-      }
+      },
+		{
+        "name": "Emre - TersineBilgisayarcı",
+        "role": "Partial network integration, stick supply and firmware support ",
+        "tier": "trade",
+        "commitments": [],
+        "website": null,
+        "contact": {
+          "type": "Instagram",
+          "value": "@tersine_bilgisayar",
+          "url": "https://www.instagram.com/tersine_bilgisayar"
+		}  
+	  }
     ]
   },
   {
